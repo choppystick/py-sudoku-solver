@@ -19,13 +19,13 @@ This repository contains a Python implementation of a Sudoku solver using Linear
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/sudoku-solver-lp.git
+   git clone https://github.com/choppystick/py-sudoku-solver
    cd sudoku-solver-lp
    ```
 
 2. Install the required libraries:
    ```
-   pip install pulp requests
+   pip install -r requirements.txt
    ```
 
 3. Run the solver:
