@@ -37,7 +37,7 @@ By default, the script will fetch a "hard" difficulty Sudoku puzzle from the New
 
 ## How It Works
 
-The Sudoku solver uses Linear Programming to model the Sudoku puzzle as a constraint satisfaction problem. Here's a deep dive into how LP works in this context:
+The Sudoku solver uses Linear Programming to model the Sudoku puzzle as a constraint satisfaction problem. Instead of using brute-force algorithm, it is possible to use a more elegant and efficient approach to solve a Sudoku puzzle.
 
 ### Linear Programming in Sudoku Solving
 
