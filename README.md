@@ -19,7 +19,7 @@ This repository contains a Python implementation of a Sudoku solver using Linear
 
 1. Clone the repository:
    ```
-   git clone https://github.com/choppystick/py-sudoku-solver
+   git clone https://github.com/choppystick/py-sudoku-solver.git
    cd sudoku-solver-lp
    ```
 
