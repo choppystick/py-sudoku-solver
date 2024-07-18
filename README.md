@@ -42,6 +42,7 @@ The Sudoku solver uses Linear Programming to model the Sudoku puzzle as a constr
 ### Linear Programming in Sudoku Solving
 
 Linear Programming is a mathematical optimization technique used to find the best outcome in a mathematical model whose requirements are represented by linear relationships. In the context of Sudoku, we're not trying to optimize anything, but rather find a feasible solution that satisfies all the constraints of the puzzle. We can set up a mathematical problem as such:
+
 ![image](https://github.com/user-attachments/assets/ec859a00-65c7-454f-971b-61fd77ab1e91)
 
 
